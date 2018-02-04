@@ -1,2 +1,2 @@
-# Constructor-Hangman
-Hangman command-line game using constructor functions.
+# Hangman-Cli
+This is a hangman game using the command line interface.
